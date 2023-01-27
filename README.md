@@ -37,6 +37,7 @@ Run the following command to fill the table with some data:
 Run the following command to start the development server:
 
 - php artisan serve
+
 The application should now be accessible at http://localhost:8000.
 
 ## Step 8: Read the documentation:
