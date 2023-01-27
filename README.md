@@ -39,6 +39,10 @@ Run the following command to start the development server:
 - php artisan serve
 The application should now be accessible at http://localhost:8000.
 
+## Step 8: Read the documentation:
+
+ - Documentation: https://documenter.getpostman.com/view/18539430/2s8ZDX4Nkk
+
 ## Note
 You may want to make sure you have a .env file in your root directory with the necessary configuration for your application to connect to the database before running the migration command.
 
